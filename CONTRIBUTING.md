@@ -6,7 +6,7 @@ We are currently accepting submissions for two types of issues:
 - Campaign requests
 - Feature requests
 
-Please refrain from submitting other issues as the team will not be addressing them at this time.
+Please only submit requests for campaigns and features that **do not** already exist on the StackUp platform. Additionally, please refrain from submitting other types of issues (e.g. bug reports) as the team will not be addressing them at this time.
 
 ## Submitting an Issue
 Before submitting an issue, we request that you perform a search using the issue tracker for the keywords that you would use to describe your issue. You may find that your campaign or feature has already been requested by someone else. Please read the results to familiarize yourself with others' suggestions. If your request has already been made by someone else, please do not make it again.
