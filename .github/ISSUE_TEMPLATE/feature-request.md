@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Name of Proposer**
+Enter your StackUp username here.
+
 **Is your feature request related to a problem? Please describe.**
 A 2-3 sentence, clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
