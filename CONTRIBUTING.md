@@ -11,7 +11,7 @@ Please refrain from submitting other issues as the team will not be addressing t
 ## Submitting an Issue
 Before submitting an issue, we request that you perform a search using the issue tracker for the keywords that you would use to describe your issue. You may find that your campaign or feature has already been requested by someone else. Please read the results to familiarize yourself with others' suggestions. If your request has already been made by someone else, please do not make it again.
 
-If you find that your issue has not been raised before, you may open a new issue, using our new issue templates and filling them up.
+If you find that your issue has not been raised before, you may open a new issue, using our [new issue templates](https://github.com/stackup-dev/open-source-campaign/issues/new/choose) and filling them up.
 
 If your issue has already been raised before, you may choose either to submit a separate issue, or to comment on an existing issue to suggest improvements. 
 
