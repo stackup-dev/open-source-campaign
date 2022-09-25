@@ -8,30 +8,47 @@ assignees: ''
 ---
 
 # Name of Proposer
-*Enter your StackUp username here.*
+*Bukusoft*
 
 # Campaign Name
-*Tell us what you campaign is called.*
+*Programmer Health Tips*
 
 ## Campaign Description
-*Write a 3-5 sentence description of the campaign you are proposing. Your description should cover the following:
-- What the campaign aims to teach
-- Who the campaign is for (e.g. beginners, advanced users)
-- Why Stackies should learn this topic*
+- This campaign aims to teach stackies on how to maintain good health habits as programmers
+- This camoaign is for all level programmers
+- Stackies should learn this topic in order to maintain good health while beign productive as programmers
 
 ## Number of Quests
-*List the number of quests you think this campaign should have. Proposed campaigns should have at least 2 quests.*
+*There will be two quest for this campaign*
 
 ## Quest 1 Summary
-*Write a 1-3 sentence description of the first quest. Your description should cover the following:
-- What the quest will focus on teaching
-- What resources you will use (e.g. will you use a practice dataset? Code chunks? Capstone project?)
-- Why this is useful for Stackies*
+- This quest will focus on introducing health concept and issues that affects programmers.
+- Discriptive educational resources will be used for this quest.
+- This is useful for stackies because it will educate them on the various health issues they could be faced with as programers or someone in tech.
 
 ## Quest 1 Learning Objectives
-*In point form, tell us what Stackies will learn in this quest.*
+*By the end of this quest stackies should be able to:*
+- List various health issues that can affect a programmer.
+- Understand how this health issues arise.
+ 
 
 ## Quest 1 Deliverables
-*What are the deliverables of this quest?*
+*This quest has one deliverable which is completion and submission of a quiz*
 
-**IMPORTANT:** You should have **Summary**, **Learning Objectives** and **Deliverables** sections for each quest you are suggesting. For example, if you have 3 quests, you should fill in this information for Quest 1 in the template above, then copy and paste the headings and fill up the information for Quest 2 and Quest 3 also.
+
+## Quest 2 Summary
+- This quest will focus on introducing ethics and precautional health measures that should be abided by programmers.
+- Discriptive educational resources will be used for this quest as well as educational video resources.
+- This is useful for stackies because it will educate them on the various health ethics and precautional measures they could use to maintain good healthy life style as programers.
+
+## Quest 2 Learning Objectives
+*By the end of this quest stackies should be able to:*
+- List various ways to prevent health challanges as programmers.
+- Understand the effects of this health ethics and measures.
+- Practice some of this health measures themselves.
+ 
+
+## Quest 2 Deliverables
+*This quest has two deliverables which is submission of a quiz and an image that shows them maintaining one of the physical health measures in their work space*
+
+
