@@ -6,6 +6,8 @@ We are currently accepting submissions for two types of issues:
 - Campaign requests
 - Feature requests
 
+Vinscavon
+
 Please only submit requests for campaigns and features that **do not** already exist on the StackUp platform. Additionally, please refrain from submitting other types of issues (e.g. bug reports) as the team will not be addressing them at this time.
 
 ## Submitting an Issue
