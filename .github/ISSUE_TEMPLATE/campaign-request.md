@@ -36,17 +36,15 @@ assignees: ''
 
 
 ## Quest 2 Summary
-*
 - This quest will focus on introducing ethics and precautional health measures that should be abided by programmers.
 - Discriptive educational resources will be used for this quest as well as educational video resources.
-- This is useful for stackies because it will educate them on the various health ethics and precautional measures they could use to maintain good healthy life style as programers.*
+- This is useful for stackies because it will educate them on the various health ethics and precautional measures they could use to maintain good healthy life style as programers.
 
 ## Quest 2 Learning Objectives
-*By the end of this quest stackies should be able to:
+*By the end of this quest stackies should be able to:*
 - List various ways to prevent health challanges as programmers.
 - Understand the effects of this health ethics and measures.
 - Practice some of this health measures themselves.
- *
 
 ## Quest 2 Deliverables
 *This quest has two deliverables which is submission of a quiz and an image that shows them maintaining one of the physical health measures in their work space*
