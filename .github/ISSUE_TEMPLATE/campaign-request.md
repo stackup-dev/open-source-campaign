@@ -14,9 +14,9 @@ assignees: ''
 *Programmer Health Tips*
 
 ## Campaign Description
-*- This campaign aims to teach stackies on how to maintain good health habits as programmers
-- This camoaign is for all level programmers
-- Stackies should learn this topic in order to maintain good health while beign productive as programmers*
+- This campaign aims to teach stackies on how to maintain good health habits as programmers.
+- This campaign is for all level programmers.
+- Stackies should learn this topic in order to maintain good health while beign productive as programmers.
 
 ## Number of Quests
 *There will be two quest for this campaign*
@@ -27,9 +27,9 @@ assignees: ''
 - This is useful for stackies because it will educate them on the various health issues they could be faced with as programers or someone in tech.
 
 ## Quest 1 Learning Objectives
-*By the end of this quest stackies should be able to:
+*By the end of this quest stackies should be able to:*
 - List various health issues that can affect a programmer.
-- Understand how this health issues arise. *
+- Understand how this health issues arise. 
 
 ## Quest 1 Deliverables
 *This quest has one deliverable which is completion and submission of a quiz*
