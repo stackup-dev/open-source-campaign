@@ -22,9 +22,9 @@ assignees: ''
 *There will be two quest for this campaign*
 
 ## Quest 1 Summary
-*- This quest will focus on introducing health concept and issues that affects programmers.
+- This quest will focus on introducing health concept and issues that affects programmers.
 - Discriptive educational resources will be used for this quest.
-- This is useful for stackies because it will educate them on the various health issues they could be faced with as programers or someone in tech.*
+- This is useful for stackies because it will educate them on the various health issues they could be faced with as programers or someone in tech.
 
 ## Quest 1 Learning Objectives
 *By the end of this quest stackies should be able to:
