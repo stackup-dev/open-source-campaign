@@ -1,37 +1,50 @@
----
-name: Campaign Request
-about: Use this template to request a StackUp Campaign
-title: ''
-labels: ''
-assignees: ''
-
----
 
 # Name of Proposer
-*Enter your StackUp username here.*
+denyncrm
 
 # Campaign Name
-*Tell us what you campaign is called.*
+Make website using Laravel
 
 ## Campaign Description
-*Write a 3-5 sentence description of the campaign you are proposing. Your description should cover the following:
-- What the campaign aims to teach
-- Who the campaign is for (e.g. beginners, advanced users)
-- Why Stackies should learn this topic*
+- basic laravel to build website
+- beginer
+- programmers use Laravel for develop their backend system
 
 ## Number of Quests
-*List the number of quests you think this campaign should have. Proposed campaigns should have at least 2 quests.*
+4
 
 ## Quest 1 Summary
-*Write a 1-3 sentence description of the first quest. Your description should cover the following:
-- What the quest will focus on teaching
-- What resources you will use (e.g. will you use a practice dataset? Code chunks? Capstone project?)
-- Why this is useful for Stackies*
+- route
 
 ## Quest 1 Learning Objectives
-*In point form, tell us what Stackies will learn in this quest.*
+routing to access website page
 
 ## Quest 1 Deliverables
-*What are the deliverables of this quest?*
+stacker can use route to access website
 
-**IMPORTANT:** You should have **Summary**, **Learning Objectives** and **Deliverables** sections for each quest you are suggesting. For example, if you have 3 quests, you should fill in this information for Quest 1 in the template above, then copy and paste the headings and fill up the information for Quest 2 and Quest 3 also.
+## Quest 2 Summary
+- blade template
+
+## Quest 2 Learning Objectives
+comparation build a website using blade template and without using blade template
+
+## Quest 2 Deliverables
+stacker 
+
+## Quest 3 Summary
+- model
+
+## Quest 3 Learning Objectives
+database relationship, make & update model file
+
+## Quest 3 Deliverables
+stackers can make model to connect their db to website
+
+## Quest 4 Summary
+- controller
+
+## Quest 4 Learning Objectives
+controlling view page, model, and function
+
+## Quest 4 Deliverables
+stackers can add function on controller
