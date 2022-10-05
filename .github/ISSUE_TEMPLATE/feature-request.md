@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Use this template to request a StackUp Feature
-title: ''
+title: 'ABC'
 labels: ''
 assignees: ''
 
